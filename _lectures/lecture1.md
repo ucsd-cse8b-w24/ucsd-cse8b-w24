@@ -24,10 +24,12 @@ Session plan:
 - 2-3 min: Say hi to the people around you
 - 15 min: Handout + discussion
 - 20 min: syllabus
-    - Lectures, videos
+    - Lectures
+    - Discussions
     - Stepik
     - Programming Assignments
     - Exams
+    - Lecture/Discussion Participation
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
