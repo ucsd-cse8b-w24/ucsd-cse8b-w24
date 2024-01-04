@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: "Calendar – UCSD CSE8B Winter 23"
+title: "Calendar – UCSD CSE8B Winter 24"
 doodle: "/doodle.png"
 ---
 
