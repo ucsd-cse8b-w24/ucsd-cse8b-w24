@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 1
 name: Introduction
-released-on: "2023-01-09"
+released-on: "2024-01-08"
 videos:
 
 worksheets:
