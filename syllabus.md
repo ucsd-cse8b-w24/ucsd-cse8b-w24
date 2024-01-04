@@ -166,7 +166,7 @@ we will allow a short period for you to request a fix (announced along with
 Gradescope grade release). If you don't make a request in the given period, 
 the grade you were initially given is final.
 
-Regrades for exams must be done in person with the instructor or a teaching assistant.
+Regrades for exams must be done in person with the instructor or a teaching assistant (not undergraduate tutors).
 
 ### Academic Integrity
 
