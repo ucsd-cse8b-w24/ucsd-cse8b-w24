@@ -26,11 +26,16 @@ Session plan:
 - 20 min: syllabus
     - Lectures, videos
     - Stepik
-    - Programming
+    - Programming Assignments
     - Exams
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
+    - #FinAid Survey in Canvas (due ASAP)
+    - Asking questions
+      - Piazza - preferred
+      - Email - personal issues
+      - Canvas messages - never
 - 5 min: q/a
 
 Before the first lecture, there are no videos to watch. You should familiarize
