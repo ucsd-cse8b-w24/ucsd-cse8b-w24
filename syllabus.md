@@ -63,8 +63,8 @@ at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
 Starting with the second lecture, we will take attendance during lecture (except exams) and for each discussion session.
 
-Attendance for lectures and discussions is not required, but each lecture/discussion earns
-0.4% extra credit, up to a maximum of 10% (25 total lectures and discussions).
+Attendance for lectures and discussions is not required, but attendance at each lecture/discussion earns
+0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions).
 
 In each lecture/discussion, we’ll have a paper handout (also available electronically). 
 At the end of lecture/discussion you’ll have a chance submit your handout to Gradescope. 
@@ -95,7 +95,7 @@ All Stepik exercises must be completed by Saturday of Week 10 by 8am.
 After this time, no late submissions will be accepted, for any reason.
 
 To ensure you get credit for the Stepik exercises, you must fill out this 
-[form](https://forms.gle/GRnWWVMALtNKHAzR8){:target="_blank"}
+[form](https://forms.gle/epZqQmvocgHGNvuN6){:target="_blank"}
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
 <a id="p:programming"></a>
