@@ -4,7 +4,7 @@ title: "Syllabus – UCSD CSE8B Winter 23"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 8B Winter 2023
+# UCSD CSE 8B Winter 2024
 ## Intro to Programming 2
 
 _Greg Miranda_
@@ -138,8 +138,8 @@ Please note that all deadlines for PAs are at 10pm (not midnight).
 
 There will be two in-person exams in this course: a midterm and a final exam. The exam dates are shown below:
 
-- Midterm Exam: Friday, February 17th 2023
-- Final Exam: Monday, March 20th 2023
+- Midterm Exam: Friday, February 17th 2024
+- Final Exam: Monday, March 20th 2024
 
 The final exam will be **cumulative** and will cover all topics discussed in the course. 
 
