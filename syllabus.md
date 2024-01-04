@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE8B Winter 23"
+title: "Syllabus – UCSD CSE8B Winter 24"
 doodle: "/doodle.png"
 ---
 
@@ -20,22 +20,21 @@ learning through your own program designs.
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-On an average week in CSE8B, you can expect to spend 4-6 hours on videos,
-reading, lecture, and discussion; 2-3 hours on programming practice; and 4-6
-hours working on your programming projects. If you find yourself spending
-dramatically more time than this, it's a good idea to contact the course staff
-and discuss more efficient strategies in office hours.
+On an average week in CSE8B, you can expect to spend 4-6 hours,
+reading, lecture, and discussion; and 4-6 hours working on your programming projects. 
+If you find yourself spending dramatically more time than this, it's a good idea to 
+contact the course staff and discuss more efficient strategies in office hours.
 
 ## Course Components
 
 There are a few components to your grade in the course:
 
-- 10% Lecture Participation
-- 15% Completing book exercises in Stepik and course engagement activities (surveys)
+- 20% Completing exercises in Stepik textbook and course engagement activities (surveys)
 - 40% Programming assignments
-- 35% Exams
+- 40% Exams
   - 15% Midterm Exam
-  - 20% Final Exam
+  - 25% Final Exam
+- 10% Lecture/Discussion Participation (Extra Credit)
 
 <img src="./cse_grading_scale.png" width="100%">
 
@@ -44,53 +43,55 @@ We may adjust the above scale to be more lenient
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students. 
 
-<h3>Lecture - Problem Sessions</h3>
+<h3>Lecture</h3>
 
-Most course content will be presented asynchronously through pre-lecture videos and
-Stepik readings, with associated interactive activities. Lectures will involve problem
-solving with your classmates. 
-
-**In-person sessions** will be led during the normally-scheduled lecture times
-in the normally-scheduled room, led by the instructor. These sessions will be
+Lectures will be led during the normally-scheduled lecture times
+in the normally-scheduled room, led by the instructor. They will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
-You can find the recordings in the Canvas Media Gallery or 
+You can find the recordings in the Canvas Media Gallery and 
 at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
-
-Since these lectures may be mostly student discussion, the recordings are mostly 
-an archive of any live demos that come up rather than a presentation of core content.
-
-Starting with the second lecture, we will take attendance during lecture (except exams).
-You must attend at least 15 lectures to earn full credit for lecture particpation.
-To receive credit for attending, you must make sure to check-in during lecture 
-(check-ins will happen at random times in the middle of the lecture), we will 
-not accept any check-ins after lecture and credit for attendance will not be given retroactively.
-
-Attendance check-ins will be handled through Gradescope therefore it's highly recommended to download 
-the Gradescope mobile app to your phone so you can upload your worksheets. Otherwise, you will 
-need to hand-in your worksheets after lecture and come to office hours to get them back.
 
 <h3>Discussion</h3>
 
-Teaching Assistants (TAs) will hold a weekly discussion section to cover the weekly 
-programming assignment, review prior content, and answer student questions.
-Participation is not required at discussion, but it is highly encouraged.
+Teaching Assistants (TAs) will hold a weekly discussion section to practice exam
+questions, review prior content, and answer student questions.
 
-Like lectures, discussions will also be recorded and made available in the Canvas Media Gallery or 
+Like lectures, discussions will also be recorded and made available in the Canvas Media Gallery and 
 at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
-### Book Exercises/Quizzes and Course Engagement
+<h3>Lecture/Discussion Participation (Extra Credit)</h3>
+
+Starting with the second lecture, we will take attendance during lecture (except exams) and for each discussion session.
+
+Attendance for lectures and discussions is not required, but each lecture/discussion earns
+0.4% extra credit, up to a maximum of 10% (25 total lectures and discussions).
+
+In each lecture/discussion, we’ll have a paper handout (also available electronically). 
+At the end of lecture/discussion you’ll have a chance submit your handout to Gradescope. 
+You can do this by scanning it in the Gradescope app (for iOS and Android) 
+or through the web interface. To get participation credit, you 
+have to submit a handout filled in with the key provided by the instructor/TA.
+
+The correct key for the lecture/discussion (given by the instructor or TA) 
+must be used or credit will not be given for attending. Handouts will be 
+graded for participation only and not for correctness of the response.
+
+We will not accept any check-ins after lecture and credit for attendance 
+will not be given retroactively.
+
+### Stepik Exercises (textbook) and Course Engagement
 
 Along with each lecture will come some required pre-lecture work. Most often
 this will be reading and activities from our [Stepik textbook](https://stepik.org/course/100177/syllabus){:target="_blank"}, 
 and will also sometimes include surveys or check-in quizzes so we can get your feedback about the course
-and check on your understanding.
+and check on your understanding. 
 
 The online texbook records your progress, and we give a schedule of expected
 times to finish the readings. There is no penalty for completing these late, but
 they are assigned so that you will be prepared to participate in problem solving
 session and so that you know the expected pace of the course. 
 
-All Stepik exercises must be completed by the last day of class on Friday of Week 10 by 10pm.
+All Stepik exercises must be completed by Saturday of Week 10 by 8am.
 After this time, no late submissions will be accepted, for any reason.
 
 To ensure you get credit for the Stepik exercises, you must fill out this 
@@ -100,8 +101,25 @@ by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to
 <a id="p:programming"></a>
 <h3>Programming</h3>
 
-Most weeks there will be a programming assignment. Direct practice with
-programming will make up the majority of your work in the course.
+Most weeks there will be a programming assignment. Direct practice with programming will make up the majority of your work in the course and will help practice course concepts to prepare for exams.
+
+All PAs must be submitted to Gradescope before the PA deadline. We do not accept submissions over email or Piazza. Everything must be submitted to Gradescope. Code can be submitted to Gradescope multiple times before the deadlind and only the last submission will be graded.
+
+There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
+
+Please note that all deadlines for PAs are at 8am.
+
+<h4>Grading</h4>
+
+Programming assignments are graded in two ways:
+
+- Most of the grading is through **Gradescope's autograder** which checks that your code follows the write-up's specifications. The autograded grade is displayed each time something is submitted to Gradescope. We will not manually grade code that is autograded so make sure to check Gradescope autograder output to ensure that it compiles and passes all requirements.
+
+- Some parts of PAs are **manually graded** by the course staff. Usually manually graded code is used to visually check code that cannot be autograded. 
+
+Not all PAs have manually graded parts, in which case your final score will be the autograded score displayed in Gradescope.
+
+<h4>Feedback</h4>
 
 There are numerous opportunities to get feedback on your work and improve:
 
@@ -111,7 +129,7 @@ a staff member will grade your work and give feedback on what, if anything, you 
 
 - **After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
-submission which will be open for up to three weeks (less for those assignments near 
+submission which will be open for up to **two weeks** (less for those assignments near 
 the end of the quarter). Once the Late/Resubmit submission closes, your submission
 will again be graded. 
 
@@ -124,22 +142,15 @@ You will also receive earlier feedback and an extra grading attempt if you submi
 before the original deadline.
 
 For those assignments near the end of the quarter, the deadline for all late/resubmissions 
-will be Friday of Week 10 at 10pm. We will not accept any submissions after that time, for any reason.
-
-Each student gets a free “slip day” for each programming assignment (PA) that allow an automatic 24-hour 
-extension to submit the PA. You do not have to ask to use your slip day. Just submit your 
-assignment after the deadline (but before 24 hours after the deadline) to automatically use your 
-slip day. There is no penalty for using this free slip day. 
-
-Please note that all deadlines for PAs are at 10pm (not midnight).
+will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we will not accept any submissions after that time, for any reason.
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
 
 There will be two in-person exams in this course: a midterm and a final exam. The exam dates are shown below:
 
-- Midterm Exam: Friday, February 17th 2024
-- Final Exam: Monday, March 20th 2024
+- Midterm Exam: Friday, February 16th 2024
+- Final Exam: Wednesday, March 20th 2024
 
 The final exam will be **cumulative** and will cover all topics discussed in the course. 
 
@@ -147,6 +158,15 @@ The final exam will be **cumulative** and will cover all topics discussed in the
 
 <a id="policies"></a>
 ## Policies
+
+### Regrades
+
+Mistakes sometimes occur in grading. Once grades are posted for an assignment,
+we will allow a short period for you to request a fix (announced along with
+Gradescope grade release). If you don't make a request in the given period, 
+the grade you were initially given is final.
+
+Regrades for exams must be done in person with the instructor or a teaching assistant.
 
 ### Academic Integrity
 
@@ -174,13 +194,6 @@ becomes necessary so it isn't a surprise to anyone.
 You should be familiar with [the UCSD
 guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}
 on academic integrity as well.
-
-### Regrades
-
-Mistakes sometimes occur in grading. Once grades are posted for an assignment,
-we will allow a short period for you to request a fix (announced along with
-grade release). If you don't make a request in the given period, the grade you
-were initially given is final.
 
 ### Diversity and Inclusion
 
