@@ -2,7 +2,7 @@
 layout: with-sidebar
 title: "UCSD CSE8B – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 8B Winter 2023
+# UCSD CSE 8B Winter 2024
 
 ## Meeting with Staff
 
@@ -32,7 +32,7 @@ You can get remote help from anywhere as long as you have a stable internet conn
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ce58b723bf5b08a74826cdb90034c980247e1f39fdd72fdb6473ff657bc0d139%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_31f913c31912be1c0254b618759c231af84db98dfbf5cc05e746a2f66ba4f661%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
@@ -44,7 +44,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_d801cf7391959252d7e98ac9d32d380a5d065408def08cd2d594ffbb63d9f32d%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_290787379a3bdaecbae37d71d2df9a1044eae1a70021b615ed39dd85843def3f%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### More information on finding the in-person labs:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -70,4 +70,4 @@ help hours with the tutors.
 Instructors for this course:
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Wednesday and Friday 8:30am-9:30am, CSE 4204
+  - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
