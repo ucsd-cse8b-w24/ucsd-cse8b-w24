@@ -17,7 +17,7 @@ Quick links:
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
-  - Email: `g2miranda@eng.ucsd.edu`
+  - Email: `g2miranda@ucsd.edu`
   - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
