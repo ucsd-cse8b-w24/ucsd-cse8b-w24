@@ -69,5 +69,5 @@ help hours with the tutors.
 
 Instructors for this course:
 - Greg
-  - Email: `g2miranda@eng.ucsd.edu`
+  - Email: `g2miranda@ucsd.edu`
   - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
