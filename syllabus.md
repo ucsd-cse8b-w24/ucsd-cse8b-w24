@@ -113,7 +113,7 @@ Please note that all deadlines for PAs are at 8am.
 
 Programming assignments are graded in two ways:
 
-- Most of the grading is through **Gradescope's autograder** which checks that your code follows the write-up's specifications. The autograded grade is displayed each time something is submitted to Gradescope. We will not manually grade code that is autograded so make sure to check Gradescope autograder output to ensure that it compiles and passes all requirements.
+- Most of the PA grading is through **Gradescope's autograder** which checks that your code follows the write-up's specifications. The autograded grade is displayed each time something is submitted to Gradescope. We will not manually grade code that is autograded so make sure to check Gradescope autograder output to ensure that it compiles and passes all requirements.
 
 - Some parts of PAs are **manually graded** by the course staff. Usually manually graded code is used to visually check code that cannot be autograded. 
 
