@@ -34,7 +34,7 @@ There are a few components to your grade in the course:
 - 40% Exams
   - 15% Midterm Exam
   - 25% Final Exam
-- 10% Lecture/Discussion Participation (Extra Credit)
+- Extra Credit: 10% Lecture/Discussion Participation
 
 <img src="./cse_grading_scale.png" width="100%">
 
