@@ -2,23 +2,23 @@
 layout: with-sidebar
 title: "UCSD CSE8B – Accelerated Introduction to Programming"
 ---
-# UCSD CSE 8B Winter 2023
+# UCSD CSE 8B Winter 2024
 ## Asking Questions and Getting Help
 
-There are 32 staff members (instructor, TAs, and tutors) to help with your
+There are 24 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/winter2023/cse8b_wi23_a00/home](https://piazza.com/ucsd/winter2023/cse8b_wi23_a00/home){:target="_blank"}
+- Piazza Message Board: [https://piazza.com/ucsd/winter2024/cse8b_wi23_a00/home](https://piazza.com/ucsd/winter2024/cse8b_wi23_a00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
 - Tutoring Procedurs: [https://docs.google.com/document/d/19ZHpL5HlEcv_DlQzSeKscbb4hIKa0kwoH-zxBNjOqTI/edit?usp=sharing](https://docs.google.com/document/d/19ZHpL5HlEcv_DlQzSeKscbb4hIKa0kwoH-zxBNjOqTI/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Wednesday and Friday 8:30am-9:30am, CSE 4204
+  - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
@@ -27,7 +27,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/winter2023/cse8b_wi23_a00/home](https://piazza.com/ucsd/winter2023/cse8b_wi23_a00/home){:target="_blank"}
+[https://piazza.com/ucsd/winter2024/cse8b_wi23_a00/home](https://piazza.com/ucsd/winter2024/cse8b_wi23_a00/home){:target="_blank"}
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
@@ -45,9 +45,6 @@ with a link to where it was taught can be useful (instead of saying something
 like “that was already covered”). Try to guide your classmates to useful
 conclusions on their own rather than solving their problems for them. Using
 emoji can always help with a positive and friendly vibe 🙂
-
-During the times where we have take-home programming exams, Piazza will not
-allow posting public to the class.
 
 ## Meeting with Staff and Office Hours
 Please see the [Help Hours page](/help-hours.html) for more details on meeting 
@@ -74,23 +71,6 @@ There is some useful advice at [Enrolling in CSE
 Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses){:target="_blank"} that
 likely summarizes a lot of what they would tell you to get you started.
 
-**Will the course be in-person or remote? Is attendance required?**
-
-The content of the course is primarily delivered through an online textbook and
-through pre-recorded videos from the instructors. The synchronous sessions are
-for problem-solving with your classmates and Q&A with the instructional team.
-In each session, you will work in pairs or small groups on problems that we
-provide and we will go over them as a group.
-
-Attendance is required for 15 lecture (not including the first lecture and exams). 
-Studies (by UCSD faculty) have shown that attendance and participation in lecture 
-leads to better student performance and higher grades.
-
-All of the exams, including the **final exam**, will be in-person. The midterm
-exam will be held during lecture in Week 6. Students will be required to take the final exam 
-in-person during the scheduled time. The room for the final exam will be posted in
-Week 10. 
-
 **What's the course material like?**
 
 You can see a [previous version of the
@@ -113,7 +93,7 @@ community member, you can view all the podcasts for the problem sessions at
 have any formalized support for auditing the course.
 
 **What if I have enrolled in CSE8B but won't be able to be in La Jolla for most
-or all of Winter 2023?**
+or all of Winter 2024?**
 
 You will be required to take all exams in-person and attend at least 15 lectures. 
 We will not offer any remote options for the exams. If you cannot take the exams in-person,
