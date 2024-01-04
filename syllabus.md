@@ -103,9 +103,9 @@ by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to
 
 Most weeks there will be a programming assignment. Direct practice with programming will make up the majority of your work in the course and will help practice course concepts to prepare for exams.
 
-All PAs must be submitted to Gradescope before the PA deadline. We do not accept submissions over email or Piazza. Everything must be submitted to Gradescope. Code can be submitted to Gradescope multiple times before the deadlind and only the last submission will be graded.
+All PAs must be submitted to Gradescope before the PA deadline. We do not accept submissions over email or Piazza. Everything must be submitted to Gradescope. Code can be submitted to Gradescope multiple times before the deadline and only the last submission will be graded.
 
-There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
+There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations, etc.). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
 
 Please note that all deadlines for PAs are at 8am.
 
