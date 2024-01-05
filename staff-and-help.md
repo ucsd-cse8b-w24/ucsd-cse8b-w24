@@ -13,7 +13,7 @@ Quick links:
 - [Course FAQs (includes waitlist FAQs)](#faq)
 - Piazza Message Board: [https://piazza.com/ucsd/winter2024/cse8b_wi23_a00/home](https://piazza.com/ucsd/winter2024/cse8b_wi23_a00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
-- Tutoring Procedurs: [https://docs.google.com/document/d/19ZHpL5HlEcv_DlQzSeKscbb4hIKa0kwoH-zxBNjOqTI/edit?usp=sharing](https://docs.google.com/document/d/19ZHpL5HlEcv_DlQzSeKscbb4hIKa0kwoH-zxBNjOqTI/edit?usp=sharing){:target="_blank"}
+- Tutoring Procedurs: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
