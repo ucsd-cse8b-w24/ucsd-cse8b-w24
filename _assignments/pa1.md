@@ -7,4 +7,4 @@ released-on: "2024-01-10"
 
 # Programming Assignment 1
 
-Will be released on Wednesday, January 10th
+PA1 will be released on Wednesday, January 10th
