@@ -71,3 +71,10 @@ Instructors for this course:
 - Greg
   - Email: `g2miranda@ucsd.edu`
   - **Office hours**: Monday and Friday 11am-12pm, CSE 4204
+
+
+### Our Staff
+The friendly faces of this course! We have 24 staff members (instructors, TAs, and tutors) here 
+to support you and help with your learning.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwlGWFcjQTLjBaTcdS8c6M_QnifYYjRmy2h6V9K4U1C2cFxaQnBfEzNz2AG2RYTk8pQe_Wzdrygrj2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="950px"></iframe>
