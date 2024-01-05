@@ -5,7 +5,7 @@ doodle: "/doodle.png"
 ---
 
 # UCSD CSE 8B Winter 2024
-## Accelerated Intro to Programming
+## Intro to Programming 2
 
 ### Lectures and Instructor Office Hours
 
