@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 3
 name: Methods
-released-on: "2023-01-13"
+released-on: "2024-01-12"
 ---
 
 ## Lecture 3 – Vocabulary and Methods
