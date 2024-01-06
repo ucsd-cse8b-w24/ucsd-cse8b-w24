@@ -24,7 +24,7 @@ Session plan:
     - Getting Help
     - Schedule
     - Lecture 1 and 2 pages
-    - #FinAid Survey in Canvas (due ASAP)
+    - [#FinAid Survey in Canvas (due ASAP)](https://canvas.ucsd.edu/courses/51655/quizzes/160215){:target="_blank"} 
     - Asking questions
       - Piazza - preferred
       - Email - personal issues
@@ -34,6 +34,8 @@ Session plan:
 
 Before the first lecture, there are no videos to watch. You should familiarize
 yourself with the [syllabus](../syllabus.html).
+
+## Handout
 
 The handout for the first day has a few questions for us to use as icebreakers
 and to start talking about programming. You can access [the PDF
