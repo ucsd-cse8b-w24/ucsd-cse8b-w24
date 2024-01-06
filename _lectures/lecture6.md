@@ -13,7 +13,7 @@ _{{ page.released-on }}_
 
 Readings to be completed **before** problem session.
 
-- Stepik Chapter 5 [https://stepik.org/lesson/573908/step/1?unit=568498](https://stepik.org/lesson/573908/step/1?unit=568498)
+- [Stepik Chapter 5](https://stepik.org/lesson/573908/step/1?unit=568498){:target="_blank"}
 
 ## Handout
 
