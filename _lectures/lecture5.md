@@ -13,7 +13,7 @@ _{{ page.released-on }}_
 
 Readings to be completed **before** problem session.
 
-- Stepik Chapter 4 [https://stepik.org/lesson/568133/step/1?unit=562510](https://stepik.org/lesson/568133/step/1?unit=562510)
+- [Stepik Chapter 4](https://stepik.org/lesson/568133/step/1?unit=562510){:target="_blank"}
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
