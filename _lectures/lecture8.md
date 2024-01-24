@@ -16,8 +16,8 @@ Stepik reading (to complete before class):
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1CY3VKSQsiQoLYwBZbzRQCbUdbjeoQRzT/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1vWOzzwbFXkPu-1pcfUB_YeqvdCZcxnDj?usp=sharing){:target="_blank"}
