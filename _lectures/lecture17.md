@@ -15,8 +15,8 @@ Stepik 11.1 [https://stepik.org/lesson/609849/step/1?unit=605131](https://stepik
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1Qdn3TZ6-NFSPU5Yhl47lSb_ApaGavcBH/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1wxLI8Vq_nHjw4xE5Bv7srUPPF9hkXsPl?usp=sharing){:target="_blank"}
