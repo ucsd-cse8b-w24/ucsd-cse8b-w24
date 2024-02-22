@@ -15,8 +15,8 @@ No Stepik chapter.
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1_twaiJ3x5_dDqAFcl-bnhowOJXgqbNpg/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
-Coming soon...
+[Lecture Notes](https://drive.google.com/drive/folders/1wH9M2e28nm5ZZ3FGLRhzT8MbU2VDB6ue?usp=sharing){:target="_blank"}
